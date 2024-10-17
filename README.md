@@ -16,7 +16,7 @@
 ### 序章
 
 > 对mall-swarm项目的架构、业务、学习要求及学习思路进行介绍。
-
+test
 - [mall-swarm项目架构及功能概览](https://cloud.macrozheng.com/foreword/mall_swarm_foreword_01.html)
 - [mall-swarm项目核心功能演示](https://cloud.macrozheng.com/foreword/mall_swarm_foreword_02.html)
 - [mall-swarm项目学习所需知识点](https://cloud.macrozheng.com/foreword/mall_swarm_foreword_03.html)
